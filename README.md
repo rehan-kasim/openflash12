@@ -1,4 +1,4 @@
-# OpenFlash 
+# OpenFlash  
 
 A paper-crafted interactive creation portal — vector games, interactive stories and chiptune experiments, built with React, TypeScript and HTML5 Canvas. Create in the Studio, ship to the Arcade, and get paid in Bitcoin, Ethereum or Solana.
 
